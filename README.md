@@ -43,9 +43,9 @@ This project focuses on simulating enhanced oil recovery (EOR) using **waterfloo
 
 🖼️ **Screenshots**
 
-<p align="center">
+[<p align="center">
   <img src="https://raw.githubusercontent.com/Nassor-Salum/waterflooding-hydraulic-fracturing/main/saturation_map.png" alt="Saturation Map" width="600"/>
-</p>
+</p>](https://github.com/Nassor-Salum/waterflooding-hydraulic-fracturing/commit/235213f0b836f944fde9d206295b3bff76cafdaf#diff-da27607c02abd5235022c45257bb7d7e26b54996302360bd62be00b193abc1f1)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Nassor-Salum/waterflooding-hydraulic-fracturing/main/fracture_effect.png" alt="Fracture Impact on Production" width="600"/>
