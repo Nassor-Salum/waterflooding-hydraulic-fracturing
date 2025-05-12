@@ -17,8 +17,8 @@ This project focuses on simulating enhanced oil recovery (EOR) using **waterfloo
 🛠️ **Tools Used**
 
 - **ECLIPSE (Black Oil Simulator)** – For dynamic reservoir simulation  
-- **Petrel (Optional)** – For visualization of fractures and saturation maps  
-- **Python/Excel** – For data extraction and analysis of simulation output
+- **Petrel** – For visualization of fractures and saturation maps  
+- **Python & Excel** – For data extraction and analysis of simulation output
 
 ---
 
@@ -42,7 +42,6 @@ This project focuses on simulating enhanced oil recovery (EOR) using **waterfloo
 ---
 
 🖼️ **Screenshots**
-> *Note: You can add images in the `/images` folder and link them here*
 
 <p align="center">
   <img src="images/saturation_map.png" alt="Saturation Map" width="600"/>
