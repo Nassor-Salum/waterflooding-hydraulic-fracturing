@@ -66,7 +66,7 @@ This project focuses on simulating enhanced oil recovery (EOR) using **waterfloo
 1. [Download `PROJECT.DATA`](https://github.com/Nassor-Salum/waterflooding-hydraulic-fracturing/blob/main/SNARK.DATA)
 2. The simulation requires additional input files included in the `.DATA` file using `INCLUDE` statements.
 You can download all required files here:
-👉 [Download ECLIPSE_includes.zip](https://github.com/Nassor-Salum/waterflooding-hydraulic-fracturing/blob/main/ECLIPSE_includes.zip)
+ [Download ECLIPSE_includes.zip](https://github.com/Nassor-Salum/waterflooding-hydraulic-fracturing/blob/main/Includes.rar)
 
 3. Open it in **ECLIPSE Black Oil Simulator**
 4. Run simulation and monitor `SUMMARY` and `UNRST` files
