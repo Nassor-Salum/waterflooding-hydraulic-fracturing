@@ -76,10 +76,5 @@ This project focuses on simulating enhanced oil recovery (EOR) using **waterfloo
 - Proper injector placement and schedule optimization are critical to efficient sweep
 - Simulation is a powerful way to test EOR strategies before field application
 
----
-
-📬 **Contact**
-
-**Author:** Nassor  
 
 
