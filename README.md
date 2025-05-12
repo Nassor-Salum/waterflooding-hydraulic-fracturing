@@ -63,10 +63,15 @@ This project focuses on simulating enhanced oil recovery (EOR) using **waterfloo
 
 📂 **How to Use**
 
-1. [Download `PROJECT.DATA`](https://github.com/Nassor-Salum/waterflooding-hydraulic-fracturing/blob/main/SNARK.DATA) and open it in **ECLIPSE Black Oil Simulator**
-2. Run simulation and monitor `SUMMARY` and `UNRST` files
-3. Use Petrel or Office tools to visualize results (optional)
-4. Check charts for oil rate, water cut, and pressure behavior
+1. [Download `PROJECT.DATA`](https://github.com/Nassor-Salum/waterflooding-hydraulic-fracturing/blob/main/SNARK.DATA)
+2. The simulation requires additional input files included in the `.DATA` file using `INCLUDE` statements.
+You can download all required files here:
+👉 [Download ECLIPSE_includes.zip](https://github.com/Nassor-Salum/waterflooding-hydraulic-fracturing/blob/main/ECLIPSE_includes.zip)
+
+3. Open it in **ECLIPSE Black Oil Simulator**
+4. Run simulation and monitor `SUMMARY` and `UNRST` files
+5. Use Petrel or Office tools to visualize results (optional)
+6. Check charts for oil rate, water cut, and pressure behavior
 
 ---
 
