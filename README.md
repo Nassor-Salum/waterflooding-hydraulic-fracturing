@@ -74,7 +74,7 @@ This project focuses on simulating enhanced oil recovery (EOR) using **waterfloo
       ![Screenshot 6](https://github.com/Nassor-Salum/waterflooding-hydraulic-fracturing/blob/main/Screenshot%202025-05-06%20174736.png?raw=true)
 
 
-       - Increased Oil Recovery Factor From 47% to 56%
+   - Increased Oil Recovery Factor From 47% to 56%
       
 
        ![Screenshot 5](https://github.com/Nassor-Salum/waterflooding-hydraulic-fracturing/blob/main/Screenshot%202025-05-06%20141950.png?raw=true)
