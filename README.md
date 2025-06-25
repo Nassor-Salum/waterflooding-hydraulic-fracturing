@@ -64,19 +64,20 @@ This project focuses on simulating enhanced oil recovery (EOR) using **waterfloo
    - Fractured Horizontal Well
 
 
-     ![Screenshot 6](https://github.com/Nassor-Salum/waterflooding-hydraulic-fracturing/blob/main/Screenshot%202025-05-06%20174736.png?raw=true)
+ ![Screenshot 4](https://github.com/Nassor-Salum/waterflooding-hydraulic-fracturing/blob/main/Screenshot%202025-05-06%20095224.png?raw=true)
+     
 
 
-     - Late Water Breakthrough For Five-Sport Pattern
+   - Late Water Breakthrough For Five-Sport Pattern
     
 
-       ![Screenshot 5](https://github.com/Nassor-Salum/waterflooding-hydraulic-fracturing/blob/main/Screenshot%202025-05-06%20141950.png?raw=true)
+      ![Screenshot 6](https://github.com/Nassor-Salum/waterflooding-hydraulic-fracturing/blob/main/Screenshot%202025-05-06%20174736.png?raw=true)
 
 
        - Increased Oil Recovery Factor From 47% to 56%
       
 
-       ![Screenshot 4](https://github.com/Nassor-Salum/waterflooding-hydraulic-fracturing/blob/main/Screenshot%202025-05-06%20095224.png?raw=true)
+       ![Screenshot 5](https://github.com/Nassor-Salum/waterflooding-hydraulic-fracturing/blob/main/Screenshot%202025-05-06%20141950.png?raw=true)
 ---
 
 📊 **Simulation Highlights**
