@@ -50,18 +50,33 @@ This project focuses on simulating enhanced oil recovery (EOR) using **waterfloo
   
 ![Screenshot 1](https://github.com/Nassor-Salum/waterflooding-hydraulic-fracturing/blob/main/Screenshot%202025-05-05%20225625.png?raw=true)
 
-- Injection Effect (Simulation)
+
+- Water Injection Effect (Simulation)
 
   
 ![Screenshot 2](https://github.com/Nassor-Salum/waterflooding-hydraulic-fracturing/blob/main/Screenshot%202025-05-05%20225824.png?raw=true)
 
-- Oil Recovery Factor (47%)
 
-  ![Screenshot 5](https://github.com/Nassor-Salum/waterflooding-hydraulic-fracturing/blob/main/Screenshot%202025-05-06%20141950.png?raw=true)
   
   
-- [Fracture Impact on Production](https://github.com/Nassor-Salum/waterflooding-hydraulic-fracturing/commit/03fd1f86a72627999a141f990177489cf67f1ed2#diff-2c0f7984f1989a3530b083f6a6fa17c5144efafa4c0575ca32a370ec8fdd42a8)
+   **Fracture Impact on Production**
 
+   - Fractured Horizontal Well
+
+
+     ![Screenshot 6](https://github.com/Nassor-Salum/waterflooding-hydraulic-fracturing/blob/main/Screenshot%202025-05-06%20174736.png?raw=true)
+
+
+     - Late Water Breakthrough For Five-Sport Pattern
+    
+
+       ![Screenshot 5](https://github.com/Nassor-Salum/waterflooding-hydraulic-fracturing/blob/main/Screenshot%202025-05-06%20141950.png?raw=true)
+
+
+       - Increased Oil Recovery Factor From 47% to 56%
+      
+
+       ![Screenshot 4](https://github.com/Nassor-Salum/waterflooding-hydraulic-fracturing/blob/main/Screenshot%202025-05-06%20095224.png?raw=true)
 ---
 
 📊 **Simulation Highlights**
