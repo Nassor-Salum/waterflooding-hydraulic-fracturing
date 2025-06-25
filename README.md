@@ -51,12 +51,16 @@ This project focuses on simulating enhanced oil recovery (EOR) using **waterfloo
 ![Screenshot 1](https://github.com/Nassor-Salum/waterflooding-hydraulic-fracturing/blob/main/Screenshot%202025-05-05%20225625.png?raw=true)
 
 
-- Water Injection Effect (Simulation)
+- Water Injection Effect 
 
   
 ![Screenshot 2](https://github.com/Nassor-Salum/waterflooding-hydraulic-fracturing/blob/main/Screenshot%202025-05-05%20225824.png?raw=true)
 
 
+  - Oil Recovery Factor Increased to 47% (Water Injection Effect)
+
+
+    ![Screenshot](https://github.com/Nassor-Salum/waterflooding-hydraulic-fracturing/blob/main/Screenshot%202025-05-06%20023633.png?raw=true)
   
   
    **Fracture Impact on Production**
@@ -74,7 +78,7 @@ This project focuses on simulating enhanced oil recovery (EOR) using **waterfloo
       ![Screenshot 6](https://github.com/Nassor-Salum/waterflooding-hydraulic-fracturing/blob/main/Screenshot%202025-05-06%20174736.png?raw=true)
 
 
-   - Increased Oil Recovery Factor From 47% to 56%
+   - Increased Oil Recovery Factor Incresed From 47% to 56% Due (Fracturing Effect)
       
 
        ![Screenshot 5](https://github.com/Nassor-Salum/waterflooding-hydraulic-fracturing/blob/main/Screenshot%202025-05-06%20141950.png?raw=true)
